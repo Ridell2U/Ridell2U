@@ -8,7 +8,7 @@
 <h2> Cybersecurity Projects</h2>
 
 - <b>Security Audit Project</b>
-  - [Security Audit]([TBD soon](https://github.com/Ridell2U/Security-Audit-Project.git))
+  - [Security Audit](https://github.com/Ridell2U/Security-Audit-Project.git)
 
 <h2> Certifications</h2>
 
