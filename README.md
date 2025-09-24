@@ -19,6 +19,8 @@
 
 [<img align="left" alt="LincolnMorgan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+find a way too change link to dirent to linkedin
+
 [linkedin]: www.linkedin.com/in/lincolnmorgan
 
 <!--
