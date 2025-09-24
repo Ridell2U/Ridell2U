@@ -8,7 +8,7 @@
 <h2> Cybersecurity Projects</h2>
 
 - <b>Security Audit Project</b>
-  - [special title for proj](Create a repository that holds the checklist and the report from botium toys, input link here)
+  - [Security Audit](https://github.com/Ridell2U/Security-Audit-Project.git)
 
 <h2> Certifications</h2>
 
